@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+        "name": "ok-nihar/inspire",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": [
@@ -28,7 +28,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Nihar\\Inspire\\" : "packages/nihar/inspire/src/"
+            "Ok-nihar\\Inspire\\" : "packages/ok-nihar/inspire/src/"
         }
     },
     "autoload-dev": {
